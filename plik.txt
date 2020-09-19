@@ -1,1 +1,2 @@
 Moj pierwszy projet w tests01
+To jest pierwsza edycja 
